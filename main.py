@@ -4,7 +4,7 @@ import pygame
 import os
 import tempfile
 
-API_KEY = "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"
+API_KEY = "KEY_README"
 MODEL = "nvidia/nemotron-nano-12b-v2-vl:free"
 conversation = []
 
