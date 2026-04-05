@@ -7,7 +7,7 @@ Xiaomi MiMo v2 Flash modeliyle çalışan sesli Türkçe chatbot.
 ### 1. API Key ayarla
 `main.py` dosyasını aç ve şu satırı düzenle:
 ```
-API_KEY = "sk-or-v1-buraya-yaz"
+API_KEY = "KEY_README"
 ```
 OpenRouter'dan aldığın key'i yaz.
 
