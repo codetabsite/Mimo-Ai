@@ -1,6 +1,6 @@
 # 🤖 MiMo Chatbot
 
-Xiaomi MiMo v2 Flash modeliyle çalışan sesli Türkçe chatbot.
+Nvidia Nemotron-Nano modeliyle çalışan sesli Multi-Dil bir chatbot.
 
 ## Kurulum
 
@@ -34,16 +34,17 @@ bash run.sh
 
 ## Gereksinimler
 
-- Python 3.8+
+- Python 3.3+
 - İnternet bağlantısı
 - OpenRouter API key
-
+- Bu dosyalar
+  
 ## Dosya Yapısı
 
 ```
 aibot/
 ├── main.py          # Ana kod
-├── requirements.txt # Paket listesi
+├── requirements.txt # Gereken Paket listesi
 ├── run.sh           # Başlatma scripti
 └── README.md        # Bu dosya
 ```
