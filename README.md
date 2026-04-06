@@ -1,5 +1,15 @@
 # 🤖 MiMo Chatbot
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+![AI](https://img.shields.io/badge/AI-Nemotron--Nano-purple)
+![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey?logo=linux)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
+![Stars](https://img.shields.io/github/stars/USERNAME/REPO?style=social)
+
+---
+
 Nvidia Nemotron-Nano modeliyle çalışan sesli Multi-Dil bir chatbot.
 
 ## Kurulum
