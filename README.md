@@ -6,7 +6,7 @@
 ![AI](https://img.shields.io/badge/AI-Nemotron--Nano-purple)
 ![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey?logo=linux)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
-![Stars](https://img.shields.io/github/stars/USERNAME/REPO?style=social)
+![Stars](https://img.shields.io/github/stars/codetabsite/Mimo-Aistyle=social)
 
 ---
 
